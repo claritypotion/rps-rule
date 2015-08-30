@@ -1,0 +1,13 @@
+{
+  "name": "rps-rule",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/rps.js",
+  "license": "ISC",
+  "scripts" : {
+    "test" : "node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
